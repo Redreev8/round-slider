@@ -1,5 +1,5 @@
-import './src/sass/style.sass'
-import RoundSlider from './src/script/round-slider'
+import './app/sass/style.sass'
+import RoundSlider from './app/script/round-slider'
 
 new RoundSlider({
 	range: document.querySelector('.range'),
