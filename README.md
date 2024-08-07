@@ -10,3 +10,5 @@ range: HTMLInputElement
 
 - startShift сдвиг от старта
 - endShift сдвиг до конца
+- template отрабожение значения
+- range input c type="range"
